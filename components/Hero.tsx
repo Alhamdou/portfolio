@@ -12,7 +12,7 @@ type Props = {};
 export default function Hero({}: Props) {
   const [text, count] = useTypewriter({
     words: [
-      "Hey, Alhamdou Jallow here.",
+      "Hola, Alhamdou Jallow here.",
       "I build things for the web.",
       "I Love doing Machine Learning and mobile Applicatio.",
       "I love learning new technologies.",

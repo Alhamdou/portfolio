@@ -7,7 +7,7 @@ import Image from "next/image";
 const imgURl =
   "https://drive.google.com/file/d/1pZJodRWfmydS39R2QNcisah2QN644eVh/view?usp=drivesdk";
 
-type Props = {};
+type Props = {data:any};
 
 export default function Hero({}: Props) {
   const [text, count] = useTypewriter({
