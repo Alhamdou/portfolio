@@ -53,7 +53,7 @@ export default function Contact({}: Props) {
               </svg>
             </span>
           </p>
-          <p className="hover:text-gray-300 duration-200">
+          {/* <p className="hover:text-gray-300 duration-200">
             <a href="https://blog.nikhilkadam.me/">blog</a>
             <span className="inline-flex">
               <svg
@@ -74,7 +74,7 @@ export default function Contact({}: Props) {
                 <path d="M7 7h10v10"></path>
               </svg>
             </span>
-          </p>
+          </p> */}
           <p className="hover:text-gray-300 duration-200">
             <a href="https://twitter.com/scientist_jalz">twitter</a>
             <span className="inline-flex">
