@@ -20,40 +20,42 @@ export default function Experience({}: Props) {
       <div className="w-full mt-20 flex space-x-10 overflow-x-scroll p-10 snap-x snap-mandatory scrollbar-track-transparent scrollbar-thin xl:space-x-14 ">
       <ExperienceCard
           clogo="/companyLogo/Omdena-Logo.png"
-          title="Junior Machine Learning Engineer  intern"
+          title="Junior Machine Learning Engineer intern"
           company="at, omdena.com"
           point1="Building Regenerative Farming Solutions with AI Enabling Agricultural Carbon Markets for Catalonia."
           point2="• Co-Lead for the Model deployments, we used Streamlit to build the interface that can help farmers to visualize and predict carbon content in the soil"
-          startDate="April, 2023"
-          endDate="July, 2023"
+          startDate="March, 2022"
+          endDate="June 14, 2023"
         />
         <ExperienceCard
           clogo="/companyLogo/Omdena-Logo.png"
-          title="Junior Machine Learning Engineer  intern"
+          title="Junior Machine Learning Engineer intern"
           company="at, omdena.com"
-          point1="Building Regenerative Farming Solutions with AI Enabling Agricultural Carbon Markets for Catalonia."
-          point2="• Co-Lead for the Model deployments, we used Streamlit to build the interface that can help farmers to visualize and predict carbon content in the soil"
-          startDate="April, 2023"
-          endDate="July, 2023"
+          point1="Built an AI model to estimate number of trees and their survival rate using open source and commercial
+          satellite data as well as drone imagery to monitor reforestation programs in Madagascar"
+          point2="Co-Lead for the Model deployments, we used Streamlit to build the interface that can help our
+          partners to visualize and predict the expected number of tress using the satellite dat"
+          startDate="June 27, 2022"
+          endDate="Aug, 2022"
         />
         
          <ExperienceCard
           clogo="/companyLogo/Omdena-Logo.png"
-          title="Junior Machine Learning Engineer  intern"
-          company="at, omdena.com"
-          point1="Building Regenerative Farming Solutions with AI Enabling Agricultural Carbon Markets for Catalonia."
-          point2="• Co-Lead for the Model deployments, we used Streamlit to build the interface that can help farmers to visualize and predict carbon content in the soil"
-          startDate="April, 2023"
-          endDate="July, 2023"
+          title="Machine Learning Intern"
+          company="at, Edunetfoundation.com"
+          point1="Work on improving some of the machine learning models available in the organization"
+          point2="With the team we build a web based Application for our machine learning system using streamlit and UI"
+          startDate="Feb, 2023"
+          endDate="May, 2023"
         />
          <ExperienceCard
           clogo="/companyLogo/Omdena-Logo.png"
-          title="Junior Machine Learning Engineer  intern"
-          company="at, omdena.com"
-          point1="Building Regenerative Farming Solutions with AI Enabling Agricultural Carbon Markets for Catalonia."
-          point2="• Co-Lead for the Model deployments, we used Streamlit to build the interface that can help farmers to visualize and predict carbon content in the soil"
-          startDate="April, 2023"
-          endDate="July, 2023"
+          title="Agendeas LLP"
+          company="at, agendeas.com"
+          point1="Software Developer trainee"
+          // point2="• Co-Lead for the Model deployments, we used Streamlit to build the interface that can help farmers to visualize and predict carbon content in the soil"
+          startDate="Aug, 2022"
+          endDate="Oct, 2022"
         />
     
         
