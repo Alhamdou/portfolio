@@ -36,6 +36,7 @@ export default function Experience({}: Props) {
           startDate="April, 2023"
           endDate="July, 2023"
         />
+        
          <ExperienceCard
           clogo="/companyLogo/Omdena-Logo.png"
           title="Junior Machine Learning Engineer  intern"
