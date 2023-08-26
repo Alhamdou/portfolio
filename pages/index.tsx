@@ -13,7 +13,7 @@ export default function Home({ data }: any) {
     <div id="mainBody" className="bg-black text-white h-screen snap-y snap-mandatory overflow-y-scroll overflow-x-hidden z-0 scrollbar-track-transparent scrollbar-thumb-slate-500/20 scrollbar-thin">
       <Head>
         <title>Alhamdu</title>
-        <meta name="description" content="Nikhil Kadam is a software developer and the founder of localhostcoders, a community that provides valuable resources for beginner developers. Explore Nikhil's latest projects and accomplishments, and learn more about his expertise in software development. Connect with Nikhil today to collaborate on your next software development project." />
+        <meta name="description" content="Alhamdou Jallow is a Machine Learning engineer and a software developer ready to tackle any challenge that is brought to him solving it using machine learning and any technologogy necessary" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico"/>
       </Head>
