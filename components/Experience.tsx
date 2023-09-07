@@ -28,7 +28,7 @@ export default function Experience({}: Props) {
           endDate="June 14, 2023"
         />
         <ExperienceCard
-          clogo="/companyLogo/SAP_logo.png"
+          clogo="/companyLogo/SAP_logo.jpg"
           title="Machine Learning intern"
           company="at, edunetfoundation.com"
           point1="1.	Work on improving some of the machine learning models available in the organization "
@@ -38,7 +38,7 @@ export default function Experience({}: Props) {
         />
         
          <ExperienceCard
-          clogo="/companyLogo/gycc-logo.png"
+          clogo="/companyLogo/gycc-logo.jpg"
           title="Software Developer"
           company="at, gycc.com"
           point1="Worked as a Software Developer, I was responsible for handling all the website affairs of the Instanton"
