@@ -59,7 +59,7 @@ export default function Contact({}: Props) {
               <svg
                 className="with-icon_icon__MHUeb"
                 data-testid="geist-icon"
-                fill="none"
+                fill="none"`
                 height="24"
                 shapeRendering="geometricPrecision"
                 stroke="currentColor"
