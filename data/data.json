@@ -7,7 +7,7 @@
         "content": "Helathian.ai,this project was created to helps patients search for doctors. It also has AI features to help doctors detect disease conditions.",
         "imgurl": "/projectSS/nft-card-new.png",
         "githubLink": "https://github.com/Alhamdou/healthian.ai",
-        "deployedLink": "",
+        "deployedLink": "https://www.linkedin.com/posts/alhamdou-jallow_connections-flutter-ml-activity-7070636912599777280-xneE?utm_source=share&utm_medium=member_desktop",
         "tech": [
           {
             "id": 11,
@@ -21,47 +21,77 @@
       },
       {
         "id": 2,
-        "title": "QR Code Component",
-        "content": "QR code component created solely with HTML and CSS. The user interface was designed in a stylish, modern look.",
-        "imgurl": "/projectSS/qr-code.png",
-        "githubLink": "https://github.com/Nick-h4ck3r/qr-code-component",
-        "deployedLink": "https://qr-code-component-nickk.netlify.app/",
+        "title": "Measuring Soil Organic Carbon Changes for regerative farming",
+        "content": "the goal of the project is to help a company in catalonia to predict the soil organic carbon content in farmlands of Catalonia.",
+        "imgurl": "/projectSS/azolla logo.jpg",
+        "githubLink": "https://www.youtube.com/watch?v=_AQUn4P5KNw&list=WL&index=17&pp=gAQBiAQB",
+        "deployedLink": "https://www.youtube.com/watch?v=_AQUn4P5KNw&list=WL&index=17&pp=gAQBiAQB",
         "tech": [
           {
             "tech": "/skillsLogos/html.png"
           },
           {
             "tech": "/skillsLogos/css.png"
+          },
+          {
+            "tech":"/skillsLogos/tensorflow_logo_icon_170598.png"
+          
+          },
+          {
+            "tech":"/skillsLogos/python.png"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Monitoring Reforestation Success using Machine Learning",
+        "content": "The goal of this project has been to build an AI model using satellite and drone imagery to monitor reforestation success based on the first 5 years of tree growth and surviva",
+        "imgurl": "/projectSS/Bondi.jpg",
+        "githubLink": "https://omdena.com/blog/monitoring-reforestation-using-machine-learning/",
+        "deployedLink": "https://omdena.com/blog/monitoring-reforestation-using-machine-learning/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/html.png"
+          },
+          {
+            "tech": "/skillsLogos/css.png"
+          },
+          {
+            "tech":"/skillsLogos/tensorflow_logo_icon_170598.png"
+          
+          },
+          {
+            "tech":"/skillsLogos/python.png"
           }
         ]
       },
       {
         "id": 3,
-        "title": "MovieSpace",
-        "content": "The MovieSpace website was built using ReactJS, which uses IMDB API to fetch using a search query using user input. reactjs and imdb api to fetch data and display results.",
-        "imgurl": "/projectSS/moviespace.png",
-        "githubLink": "https://github.com/Nick-h4ck3r/movieSpace",
-        "deployedLink": "https://movie-space.netlify.app/",
+        "title": "A student performance system project using machine learning and software development toools",
+        "content": "The purpose of the project is to build a system that can be use to help in preidction the performance of students base on certain criterias.",
+        "imgurl": "/projectSS/Bondi.jpg",
+        "githubLink": "https://github.com/Alhamdou/studentsperformance",
+        "deployedLink": "https://github.com/Alhamdou/studentsperformance",
         "tech": [
           {
             "tech": "/skillsLogos/react.png"
           },
           {
-            "tech": "/skillsLogos/js.png"
+            "tech": "/skillsLogos/tensorflow_logo_icon_170598.png"
           },
           {
-            "tech": "/skillsLogos/bootstrap.png"
+            "tech": "/skillsLogos/python.png"
           }
         ]
       },
     
       {
         "id": 5,
-        "title": "Estatery",
-        "content": "Estatery is a real estate website that was built using NextJS, TailwindCSS, and Sanity. The website is fully responsive and mobile friendly.",
+        "title": "Pneumonia disease system prediction",
+        "content": "With use of AI and software development I developed a system that can be use to help and predict if a patient is having pneumonia or nor.",
         "imgurl": "/projectSS/estatery-new.png",
-        "githubLink": "https://github.com/Nick-h4ck3r/property-project",
-        "deployedLink": "https://estatery.vercel.app/",
+        "githubLink": "https://github.com/Alhamdou/Pneumonia-Disease-Prediction",
+        "deployedLink": "https://github.com/Alhamdou/Pneumonia-Disease-Prediction",
         "tech": [
           {
             "tech": "/skillsLogos/react.png"
@@ -70,7 +100,7 @@
             "tech": "/skillsLogos/typescript.png"
           },
           {
-            "tech": "/skillsLogos/tailwind.png"
+            "tech": "/skillsLogos/python.png"
           },
           {
             "tech": "/skillsLogos/sanityio.png"
