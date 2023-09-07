@@ -56,7 +56,7 @@ export default function Experience({}: Props) {
           endDate="May, 2022"
         />
          <ExperienceCard
-          clogo="/companyLogo/new_logo_1_transparent.png"
+          clogo="/companyLogo/new_logo_1_transparent.jpg"
           title="software developer"
           company="at, prolificrehab.com"
           point1="Responsible for designing and maintaining the website and all sub domains under the organization all from scratch"
