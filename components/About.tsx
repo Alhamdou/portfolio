@@ -55,9 +55,9 @@ export default function About({}: Props) {
           Welcome to my word! <br />
           <br /> I am a{" "}
           <span className="text-blue-500 font-semibold">
-           A recent graduate of bachelors in computer Engineering and with a huge in AI. Am also a junior Machine Learning Engieer and fullstack developer
+          I am Alhamdou Jallow, a recent graduate with a Bachelor's in Computer Engineering from the prestigious Gujarat Technological University (GTU) in India, where I cultivated my passion for Artificial Intelligence. I proudly wear the hat of a Junior Machine Learning Engineer and Fullstack Developer, driven by an unwavering commitment to craft scalable and user-friendly Machine Learning Applications that elegantly solve intricate challenges
           </span>{" "}
-          with a passion for building scalable and user-friendly machine Learning Applications. I love to create elegant solutions to complex problems.
+          Beyond the lines of code, I am the visionary founder of GambAI, 
           <br />
           <br />I am also the founder of{" "}
           <span className="text-blue-500 font-semibold">
@@ -92,10 +92,8 @@ export default function About({}: Props) {
               </span>
             </a>
           </span>
-          , a community dedicated to empowering aspiring machine Learning engieers in Gambia.
-          <br /> <br /> Alongside my tech endeavors, I am an avid reader and
-          enjoy delving into subjects such as psychology and philosophy while
-          enjoying a{" "}
+          , a thriving community that serves as a nurturing haven for aspiring Machine Learning Engineers in Gambia, empowering them to reach new heights in their careers..
+          <br /> <br />While I thrive in the tech realm, my curiosity knows no bounds. I find solace in the pages of psychology and philosophy, savoring profound insights over a steaming cup of tea. Join me on this journey as I unravel the limitless possibilities at the intersection of technology, human nature, and the pursuit of knowledge.{" "}
           <span className="text-blue-500 font-semibold">
             fresh cup of tea!
           </span>
