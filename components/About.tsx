@@ -55,10 +55,12 @@ export default function About({}: Props) {
           Welcome to my world! <br />
           <br /> I am a{" "}
           <span className="text-blue-500 font-semibold">
-          I am Alhamdou Jallow, a recent graduate with a Bachelor's in Computer Engineering from the prestigious Gujarat Technological University (GTU) in India, where I cultivated my passion for Artificial Intelligence.            
+
+           A recent graduate of bachelors in computer Engineering and with a huge interest in AI and a software developer by nature. Am also a junior Machine Learning Engieer and fullstack developer
           </span>{" "}
           with a passion for building scalable and user-friendly machine Learning Applications. I love to create elegant solutions to complex problems.
           <br />
+          Alhamdou Jallow
           <br />I am also the founder of{" "}
           <span className="text-blue-500 font-semibold">
             <a
