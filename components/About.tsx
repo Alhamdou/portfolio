@@ -52,7 +52,7 @@ export default function About({}: Props) {
           $: /whoami
         </h4>
         <p className="text-sm md:text-base lg:text-lg lg:mt-4 font-light px-4 md:px-7 pt-3 font-outfit">
-          Welcome to my word! <br />
+          Welcome to my world! <br />
           <br /> I am a{" "}
           <span className="text-blue-500 font-semibold">
           I am Alhamdou Jallow, a recent graduate with a Bachelor's in Computer Engineering from the prestigious Gujarat Technological University (GTU) in India, where I cultivated my passion for Artificial Intelligence. I proudly wear the hat of a Junior Machine Learning Engineer and Fullstack Developer, driven by an unwavering commitment to craft scalable and user-friendly Machine Learning Applications that elegantly solve intricate challenges
