@@ -100,8 +100,8 @@ export default function Header({}: Props) {
           </svg>
         </p> */}
         <p className="hidden md:inline-flex text-sm text-[#a9a9a9]">
-          <a href="#contact">Get in touch</a>
-          +2202424045
+          <a href="#contact">Get in touch  +2202424045</a>
+          
         </p>
       </motion.div>
     </header>
