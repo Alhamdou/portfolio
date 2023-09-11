@@ -21,7 +21,7 @@ export default function About({}: Props) {
       }}
       className="flex flex-col relative h-screen text-center md:text-left md:flex-row max-w-7xl px-10 justify-evenly mx-auto items-center pt-16 lg:pt-28"
     >
-      <h3 className="ml-8 absolute top-32 uppercase tracking-[20px] text-gray-400 text-2xl">
+      <h3 className="ml-8 absolute top-50 uppercase tracking-[20px] text-gray-400 text-2xl">
         About Me
       </h3>
 
