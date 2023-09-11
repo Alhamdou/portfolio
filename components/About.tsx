@@ -21,7 +21,7 @@ export default function About({}: Props) {
       }}
       className="flex flex-col relative h-screen text-center md:text-left md:flex-row max-w-7xl px-10 justify-evenly mx-auto items-center pt-16 lg:pt-28"
     >
-      <h3 className="ml-6 absolute top-32 uppercase tracking-[20px] text-gray-400 text-2xl">
+      <h3 className="ml-8 absolute top-32 uppercase tracking-[20px] text-gray-400 text-2xl">
         About Me
       </h3>
 
@@ -52,15 +52,14 @@ export default function About({}: Props) {
           $: /whoami
         </h4>
         <p className="text-sm md:text-base lg:text-lg lg:mt-4 font-light px-4 md:px-7 pt-3 font-outfit">
-          Welcome to my world! <br />
-          <br /> I am a{" "}
+          {/* Welcome to my world! <br /> */}
+          <br /> I am Alhamdou Jallow{" "}
           <span className="text-blue-500 font-semibold">
-
-           A recent graduate of bachelors in computer Engineering and with a huge interest in AI and a software developer by nature. Am also a junior Machine Learning Engieer and fullstack developer
+            
+           A recent graduate of bachelors in computer Engineering and with a huge interest in AI and a software developer by nature. 
           </span>{" "}
           with a passion for building scalable and user-friendly machine Learning Applications. I love to create elegant solutions to complex problems.
           <br />
-          Alhamdou Jallow
           <br />I am also the founder of{" "}
           <span className="text-blue-500 font-semibold">
             <a
