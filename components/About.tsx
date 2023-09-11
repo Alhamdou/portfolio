@@ -56,11 +56,10 @@ export default function About({}: Props) {
           <br /> I am Alhamdou Jallow{" "}
           <span className="text-blue-500 font-semibold">
             
-           A recent graduate of bachelors in Computer Engineering from the prestigious Gujarat Technological University (GTU) in India. 
+           a recent graduate of bachelors in Computer Engineering from the prestigious Gujarat Technological University (GTU) in India. 
            {/* a recent graduate with a Bachelor's in Computer Engineering from the prestigious Gujarat Technological University (GTU) in India. */}
-          </span>{" "}
-          {/* where I cultivated my passion for Artificial Intelligence. I proudly wear the hat of a Junior Machine Learning Engineer and Fullstack Developer, driven by an unwavering commitment to craft scalable and user-friendly Machine Learning Applications that elegantly solve intricate challenges */}
-          with a passion for building scalable and user-friendly machine Learning Applications. I love to create elegant solutions to complex problems.
+          </span>{" "}          
+          where I cultivated my passsion for Artificial Intelligency. I proudly wear the hat of a Junior Machine Learning Engineer and a Fullstact Developer, driven by an unwavering commitment to craft scalable and user-friendly Machine Learning Applications that elegantly solve intricate challenges
           <br />
           <br />I am also the founder of{" "}
           <span className="text-blue-500 font-semibold">
