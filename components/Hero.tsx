@@ -14,7 +14,7 @@ export default function Hero({}: Props) {
     words: [
       "Hola, Alhamdou Jallow here.",
       "I build things for the web.",
-      "I Love doing Machine Learning and mobile Applicatio.",
+      "I Love doing Machine Learning and Software development.",
       "I love learning new technologies.",
     ],
     loop: true,
