@@ -31,51 +31,8 @@ export default function Contact({}: Props) {
         </h4>
 
         <div className="flex flex-wrap gap-6 justify-center font-outfit text-xl font-extralight text-gray-500 mt-14">
-          <p className="hover:text-gray-300 duration-200">
-            <a href="https://youtube.com/alhamdou">youtube</a>
-            <span className="inline-flex">
-              <svg
-                className="with-icon_icon__MHUeb"
-                data-testid="geist-icon"
-                fill="none"
-                height="24"
-                shapeRendering="geometricPrecision"
-                stroke="currentColor"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                strokeWidth="1.5"
-                viewBox="0 0 24 24"
-                width="24"
-                style={{ color: "currentColor", width: "14px", height: "14px" }}
-              >
-                <path d="M7 17L17 7"></path>
-                <path d="M7 7h10v10"></path>
-              </svg>
-            </span>
-          </p>
-          {/* <p className="hover:text-gray-300 duration-200">
-            <a href="https://blog.nikhilkadam.me/">blog</a>
-            <span className="inline-flex">
-              <svg
-                className="with-icon_icon__MHUeb"
-                data-testid="geist-icon"
-                fill="none"`
-                height="24"
-                shapeRendering="geometricPrecision"
-                stroke="currentColor"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                strokeWidth="1.5"
-                viewBox="0 0 24 24"
-                width="24"
-                style={{ color: "currentColor", width: "14px", height: "14px" }}
-              >
-                <path d="M7 17L17 7"></path>
-                <path d="M7 7h10v10"></path>
-              </svg>
-            </span>
-          </p> */}
-          <p className="hover:text-gray-300 duration-200">
+    
+      <p className="hover:text-gray-300 duration-200">
             <a href="https://twitter.com/scientist_jalz">twitter</a>
             <span className="inline-flex">
               <svg
