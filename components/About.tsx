@@ -56,12 +56,11 @@ export default function About({}: Props) {
           <br /> I am Alhamdou Jallow{" "}
           <span className="text-blue-500 font-semibold">
             
-           a recent graduate of bachelors in Computer Engineering from the prestigious Gujarat Technological University (GTU) in India. 
-           {/* a recent graduate with a Bachelor's in Computer Engineering from the prestigious Gujarat Technological University (GTU) in India. */}
+           a recent graduate of bachelors in Computer Engineering from the prestigious Gujarat Technological University (GTU) in India, 
           </span>{" "}          
-          where I cultivated my passsion for Artificial Intelligency. I proudly wear the hat of a Junior Machine Learning Engineer and a Fullstact Developer, driven by an unwavering commitment to craft scalable and user-friendly Machine Learning Applications that elegantly solve intricate challenges
+          where I cultivated my passsion for Artificial Intelligency. I proudly wear the hat of a Junior Machine Learning Engineer and a FullStack Developer. Driven by an unwavering commitment to craft scalable and user-friendly Machine Learning Applications that elegantly solve intricate challenges
           <br />
-          <br />I am also the founder of{" "}
+          <br />Beyon the lines of code I am the visionary founder of {" "}
           <span className="text-blue-500 font-semibold">
             <a
               href="https://twitter.com/gambAi"
@@ -94,7 +93,7 @@ export default function About({}: Props) {
               </span>
             </a>
           </span>
-          , a community dedicated to empowering aspiring machine Learning engieers in Gambia.
+          , a thriving community that serves as a nuturing haven for aspiring Machine Learning Engineers in Gambia, empowering them to reach new heights in thier careers.
           <br /> <br /> While I thrive in the tech realm, my curiosity knows no bounds. I find solace in the pages of psychology and philosophy, savoring profound insights over a steaming cup of tea. Join me on this journey as I unravel the limitless possibilities at the intersection of technology, human nature, and the pursuit of knowledge{" "}
           <span className="text-blue-500 font-semibold">
             and making tech eco friendly!
