@@ -52,7 +52,7 @@ export default function About({}: Props) {
           {/* $: /whoami */}
         </h4>
         <p className="text-sm md:text-base lg:text-lg lg:mt-4 font-light px-4 md:px-7 pt-3 font-outfit">
-          Welcome to my world! <br />
+          {/* Welcome to my world! <br /> */}
           <br /> I am Alhamdou Jallow{" "}
           <span className="text-blue-500 font-semibold">
             
