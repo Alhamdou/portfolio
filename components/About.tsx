@@ -47,12 +47,12 @@ export default function About({}: Props) {
         alt="Alhamdou picture"
       />
 
-      <div className="px-0 md:px-70">
+      <div className="px-0 md:px-20">
         <h4 className="text-3xl md:text-4xl font-semibold mt-8 lg:mt-2 font-outfit lg:ml-6 md:ml-6">
-          $: /whoami
+          {/* $: /whoami */}
         </h4>
         <p className="text-sm md:text-base lg:text-lg lg:mt-4 font-light px-4 md:px-7 pt-3 font-outfit">
-          {/* Welcome to my world! <br /> */}
+          Welcome to my world! <br />
           <br /> I am Alhamdou Jallow{" "}
           <span className="text-blue-500 font-semibold">
             
