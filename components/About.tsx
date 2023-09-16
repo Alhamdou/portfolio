@@ -47,7 +47,7 @@ export default function About({}: Props) {
         alt="Alhamdou picture"
       />
 
-      <div className="px-0 md:px-20">
+      <div className="px-0 md:px-70">
         <h4 className="text-3xl md:text-4xl font-semibold mt-8 lg:mt-2 font-outfit lg:ml-6 md:ml-6">
           $: /whoami
         </h4>
