@@ -60,7 +60,7 @@ export default function About({}: Props) {
           </span>{" "}          
           where I cultivated my passsion for Artificial Intelligency. I proudly wear the hat of a Junior Machine Learning Engineer and a FullStack Developer. Driven by an unwavering commitment to craft scalable and user-friendly Machine Learning Applications that elegantly solve intricate challenges
           <br />
-          {/* <br />Beyon the lines of code I am the visionary founder of {" "} */}
+          <br />Beyon the lines of code I am the visionary founder of {" "}
           <span className="text-blue-500 font-semibold">
             <a
               href="https://twitter.com/gambAi"
@@ -93,11 +93,11 @@ export default function About({}: Props) {
               </span>
             </a>
           </span>
-          {/* , a thriving community that serves as a nuturing haven for aspiring Machine Learning Engineers in Gambia, empowering them to reach new heights in thier careers. */}
-          <br /> <br /> While I thrive in the tech realm, my curiosity knows no bounds. I find solace in the pages of psychology and philosophy, savoring profound insights over a steaming cup of tea. Join me on this journey as I unravel the limitless possibilities at the intersection of technology, human nature, and the pursuit of knowledge{" "}
-          <span className="text-blue-500 font-semibold">
-            and making tech eco friendly!
-          </span>
+          , a thriving community that serves as a nuturing haven for aspiring Machine Learning Engineers in Gambia, empowering them to reach new heights in thier careers.
+          {/* <br /> <br /> While I thrive in the tech realm, my curiosity knows no bounds. I find solace in the pages of psychology and philosophy, savoring profound insights over a steaming cup of tea. Join me on this journey as I unravel the limitless possibilities at the intersection of technology, human nature, and the pursuit of knowledge{" "} */}
+          {/* <span className="text-blue-500 font-semibold"> */}
+            {/* and making tech eco friendly! */}
+          {/* </span> */}
         </p>
       </div>
     </motion.div>
